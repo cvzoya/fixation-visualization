@@ -1,5 +1,6 @@
 % Zoya Bylinskii (January 2016)
 % based on code by Phillip Isola (2015)
+% https://github.com/cvzoya/fixation-visualization
 
 % Visualization to create a spotlight on top of an image to highlight parts
 % of the image fixated by a group of observers. Here, most visible on the
