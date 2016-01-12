@@ -4,6 +4,8 @@
 % Overlay fixations as a continuous heatmap on top of image by placing a
 % Gaussian with a chosen sigma on top of each fixation
 
+% requires heatmap_overlay.m from:  http://www.vision.caltech.edu/~harel/share/gbvs/util/heatmap_overlay.m
+
 function plotFixationHeatmap(im, fixations, params)
 % im is an image on which to overlay fixations
 % fixations is an Nx2 array with the (x,y) locations of fixations
