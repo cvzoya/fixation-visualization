@@ -1,6 +1,5 @@
 % Zoya Bylinskii, October 19, 2015
-% https://github.com/massvis
-% massvis.mit.edu
+% https://github.com/cvzoya/fixation-visualization
 
 function heatMap = makeMap(fixations,imsize1,imsize2,params)
 % fixations is an Nx2 array with the (x,y) locations of fixations

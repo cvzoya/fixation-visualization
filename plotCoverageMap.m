@@ -1,6 +1,5 @@
 % Zoya Bylinskii, October 19, 2015
-% https://github.com/massvis
-% massvis.mit.edu
+% https://github.com/cvzoya/fixation-visualization
 
 % Overlay coverage map on top of image
 

@@ -1,6 +1,5 @@
 % Zoya Bylinskii, October 19, 2015
-% https://github.com/massvis
-% massvis.mit.edu
+% https://github.com/cvzoya/fixation-visualization
 
 % Overlay fixations as a continuous heatmap on top of image by placing a
 % Gaussian with a chosen sigma on top of each fixation
