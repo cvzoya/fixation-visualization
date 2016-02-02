@@ -4,7 +4,7 @@
 function heatMap = makeMap(fixations,imsize1,imsize2,params)
 % fixations is an Nx2 array with the (x,y) locations of fixations
 
-if nargin < 3, params = struct(); end
+if nargin < 4, params = struct(); end
 if ~isfield(params,'sigma'), params.sigma = 32; end % Gaussian sigma to blur fixations by
 if ~isfield(params,'scaleFact'), params.scaleFact = 1; end
 % this just scales down the computation,
